@@ -19,6 +19,8 @@ RGB LED is a type of light emitting diode and its name derives from the words Re
 
 ### ESP32 Code
 
+```C++
+
 #include <analogWrite.h>
 
 #define PIN_RED    23 // GIOP23
