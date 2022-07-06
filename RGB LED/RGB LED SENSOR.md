@@ -1,6 +1,6 @@
 # Sensor RGB LED
 
-RGB LED is a type of light emitting diode and its name derives from the words Red, Green and Blue, they commonly have four wires with a common terminal either a common anode or cathode RGB LED. From these three colors we can generate more than 16 million shades of light.
+The RGB Led Sensor Module KY-016 in a module that consists of a 5 mm RGB LED and is capable of emitting colored light by mixing the colors of the RGB system (red, green and blue).
 
 ### Hardware Used In This Tutorial
 
